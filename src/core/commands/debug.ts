@@ -4,7 +4,7 @@ import { getDebugInfo } from "@lib/api/debug";
 import { messageUtil } from "@metro/common";
 
 export default () => <ApplicationCommand>{
-    name:"YASS QUEEN🌸🌸",
+    name:"im very mentally challenged",
     description: Strings.COMMAND_DEBUG_DESC,
     options: [
         {

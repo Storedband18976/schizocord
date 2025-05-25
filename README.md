@@ -1,2 +1,2 @@
-# WATDAFAK
-I dunno what I'm doing here
+# SCHIZOPHRENIA 🔥🔥
+mental illness
